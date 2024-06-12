@@ -84,7 +84,7 @@ div p a{
         background-size:cover ;
     }
     .sec2 h2{
-        margin-top:50px;
+        margin-top:20px;
     }
     li{
         margin-right:20px;
@@ -115,7 +115,7 @@ div p a{
         margin-top:100%;
     }
  }
- @media(600px<=width<=768px){
+ @media(600px<=width<768px){
     .navbar{
         width: auto;
     height: 100px;
@@ -148,8 +148,8 @@ div p a{
     margin-top: 30px;
     margin-bottom: 500px;
     }
-    .image{
-        margin-top:250px;
+    .sec2{
+        margin-top: -26rem;
     }
     footer{
         width: auto;
@@ -183,10 +183,13 @@ div p a{
     .writing{
         font-size: xx-large;
         margin-left: 30px;
-        margin-top: 250px;
+        margin-top: 200px;
     } 
     .btn1{
         margin-bottom: 150px;
+    }
+    .sec2{
+        margin-top: -1rem;
     }
     footer{
         width: auto;
